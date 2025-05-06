@@ -1,16 +1,18 @@
 ## Hi, I'm Ben👋
 
-I'm a senior Business Analytics and Information Systems student at the University of Iowa, passionate about leveraging data-driven insights to optimize business processes and enhance customer experiences.
+I'm a senior Business Analytics and Information Systems student at the University of Iowa, passionate about leveraging data-driven insights to optimize business processes and enhance customer experiences with software.
 
 🚀 What's Next?
-Upon graduating in May, I'll be stepping into my role as an eCommerce Business Analyst at Uline, where I'll apply my analytical skills to drive strategic decisions in the digital commerce space.
+In May, I'll be joining Uline as an eCommerce Business Analyst, where I'll collaborate with cross-functional teams to improve internal web properties, optimize business processes, and enhance digital experiences.
 
 🔍 My Interests
-Data Analytics & Visualization: Transforming raw data into actionable insights.
+Web Development & Process Optimization – Identifying and improving business workflows for efficiency.
 
-E-Commerce Strategy: Understanding the mechanics of online sales and optimization.
+Azure & Cloud Technologies – Leveraging cloud solutions to support system functionality.
 
-Business Intelligence: Using technology to enhance decision-making.
+Technical Troubleshooting – Providing hands-on support to resolve system and application issues.
+
+User Experience & Prototyping – Creating wireframes and prototypes to bring enhancements to life.
 
 📫 Connect With Me
-I’m always eager to discuss analytics, technology, and business strategy! Feel free to reach out or check out my latest projects.
+I’m always eager to discuss analytics, technology, and business strategy! Feel free to reach out!
