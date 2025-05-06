@@ -19,3 +19,5 @@ User Experience & Prototyping – Creating wireframes and prototypes to bring en
 
 📫 Connect With Me
 I’m always eager to discuss analytics, technology, and business strategy! Feel free to reach out!
+LinkedIn: [LinkedIn]([https://www.linkedin.com/in/ben-kvidera/])
+Portfolio: [My Portfolio]([https://benkvidera.info])
